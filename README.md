@@ -18,8 +18,10 @@
 
 # Blowed Off
 0. Risk Of Rain Returns
-0. Baldur's Gate 3
 0. Davigo
 
 # Suggestions
 0. SpiderHeck
+
+# Promoted
+0. Baldur's Gate 3
