@@ -27,3 +27,4 @@
 # Suggestions
 0. SpiderHeck
 0. [Penguins Arena: Sedna's World](https://store.steampowered.com/app/11280/Penguins_Arena_Sednas_World/)
+0. Squad
