@@ -15,6 +15,7 @@
 0. Battlefield 4
 0. Cube World
 0. Spacewar
+0. HELLDIVERS
 
 # Promoted
 0. Baldur's Gate 3
